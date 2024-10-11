@@ -375,7 +375,7 @@
                 // .function("GetTreeQuality", &b2World::GetTreeQuality)
                 .function("SetGravity", &b2World::SetGravity)
                 .function("GetGravity", &b2World::GetGravity)
-                // .function("IsLocked", &b2World::IsLocked)
+                .function("IsLocked", &b2World::IsLocked)
                 // .function("SetAutoClearForces", &b2World::SetAutoClearForces)
                 // .function("GetAutoClearForces", &b2World::GetAutoClearForces)
                 // .function("ShiftOrigin", &b2World::ShiftOrigin)
